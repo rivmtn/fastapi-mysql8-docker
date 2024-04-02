@@ -1,0 +1,16 @@
+cryptography
+fastapi
+fastapi_sqlalchemy
+httpx
+mysqlclient
+openpyxl
+pandas
+pymysql
+python-multipart
+pytz
+shortuuid
+sqlalchemy
+SQLAlchemy-Utils
+tqdm
+uvicorn
+websockets
